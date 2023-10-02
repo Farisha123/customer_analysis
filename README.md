@@ -1,4 +1,4 @@
-##CUSTOMER SEGMENTATION##
+***CUSTOMER SEGMENTATION***
 
    
 Machine learning methodologies are a great tool for analyzing customer data and finding insights and patterns. 
